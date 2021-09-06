@@ -1,7 +1,7 @@
 # Heroes App
 
-### Project made with React
+### App: https://heroes-app-jjborrelli.netlify.app
 
-### Using useState, useEffect, useReducer, useMemo, useContext, useHistory and React Router
+---
 
-### https://heroes-app-jjborrelli.netlify.app
+### My LinkedIn: https://www.linkedin.com/in/jjborrelli/
